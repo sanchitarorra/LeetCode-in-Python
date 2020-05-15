@@ -1,2 +1,3 @@
-# LeetCode-in-Python
-My LeetCode solutions in Python.
+# LeetCode Solutions in Python
+My LeetCode Profile https://leetcode.com/elgo_cucuy/
+
